@@ -101,3 +101,11 @@ npm install -g yarn
 yarn config set registry https://registry.npm.taobao.org -g 
 
 使用 yarn install 安装前端所需依赖
+
+
+
+## 联系我
+
+>若有任何问题，可添加本人微信
+
+<img src="README.assets/wechat.JPG" alt="avatar" style="zoom: 33%;" />
