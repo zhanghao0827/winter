@@ -108,4 +108,5 @@ yarn config set registry https://registry.npm.taobao.org -g
 
 >若有任何问题，可添加本人微信
 
-<img src="README.assets/wechat.JPG" alt="avatar" style="zoom: 33%;" />
+<img src="https://zhang-hao.oss-cn-beijing.aliyuncs.com/wechat.JPG" style="zoom: 33%;" />
+
