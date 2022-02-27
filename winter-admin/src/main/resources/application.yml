@@ -1,0 +1,33 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: winter
+
+  profiles:
+    active: dev
+
+  jpa:
+    # 是否展示sql
+    show-sql: true
+    # 数据库平台
+    database: MYSQL
+    database-platform: mysql
+    hibernate:
+      # 根据实体类更新，不存在就创建，不一样就更新
+      ddl-auto: none
+    properties:
+      hibernate:
+        # 数据库方言指定数据库存储引擎
+        dialect: org.hibernate.dialect.MySQL8Dialect
+
+#  jwt配置
+jwt:
+  #  令牌自定义标识
+  header: Authorization
+  # 令牌前缀
+  prefix: 'Bearer '
+  #  令牌秘钥
+  secret: abcdefghijklmnopqrstuvwxyz
+  #   令牌有效期（默认30分钟） 单位(s)
+  expiration:  1800

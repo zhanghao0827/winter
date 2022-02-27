@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://xxxxxxxxx:xxxx/winter?characterEncoding=UTF-8&useUnicode=true&serverTimezone=Asia/Shanghai
+    username: root
+    password: root
+    type: com.zaxxer.hikari.HikariDataSource
+
+  redis:
+    host: xxxxxxxxx
+    port: 6379
+    database: 0
+    password: xxxx
