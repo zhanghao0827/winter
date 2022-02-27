@@ -44,7 +44,13 @@ Node >= 10 (推荐长期支持版)
 
 ### 必要配置 
 
+#### 数据库
+
 创 建 mysql 数 据 库 winter （ 字 符 集 为 utf8 ） ， 并 导 入 sql 文 件 `winter/winter-admin/src/main/resources/winter.sql` 
+
+#### 文件上传
+
+推荐使用阿里云OSS，在`org.winter.common.constant.AliyunConstants`配置账户信息及密钥。
 
 
 
