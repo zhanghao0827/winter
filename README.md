@@ -108,6 +108,7 @@ yarn config set registry https://registry.npm.taobao.org -g
 
 >若有任何问题，可添加本人微信
 
-<img src="https://oscimg.oschina.net/oscnet/cd1f90be5f2684f4560c9519c0f2a232ee8.jpg"/>
-<img src="https://zhang-hao.oss-cn-beijing.aliyuncs.com/wechat.JPG" style="zoom: 33%;" />
+
+
+<img src="https://oscimg.oschina.net/oscnet/up-b0698b9a734f5b6b6f6c8dea928928a6041.jpg" style="zoom: 33%;" />
 
